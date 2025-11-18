@@ -12,7 +12,7 @@
 ## 👥 Team Roles
 
 - 💼 Team Lead & Full Stack Developer: ![Sindhu S](https://img.shields.io/badge/Sindhu_S-Team_Lead-brightgreen) 
-- 🎨 UI Designer: ![Uwais Kasmani](https://img.shields.io/badge/Uwais_Kasmani-UI_Designer-blue) 
+- 🎨 UI Designer and Developer: ![Uwais Kasmani](https://img.shields.io/badge/Uwais_Kasmani-UI_Designer-blue) 
 
 ---
 
@@ -96,11 +96,5 @@ Code is modular and structured for readability
 Branch: main branch contains the final project submission done by ![Team](https://img.shields.io/badge/Team-1-green)
 
 All features were collaboratively developed and tested
-
----
-
-**📜 License**
-
-No formal license included. Contact Sindhu S for usage permissions.
 
 
